@@ -190,11 +190,12 @@ body {
   padding: 0px;
   margin: 0px;
   overflow-x: hidden;
-  font-size: 16px;
+  font-size: 20px;
 }
 
+
 a {
-  color: #1e1e1e;
+  color: #ff5f15;
   outline: 0px none;
   text-decoration: none;
 }
@@ -281,7 +282,7 @@ h1 {
 }
 
 h2 {
-  font-size: 66px;
+  font-size: 30px;
   font-weight: 700;
   letter-spacing: 7px;
 }
@@ -1492,6 +1493,11 @@ ol li {
 .no-col-gap [class*="col-lg-"] {
   padding-left: 0px;
   padding-right: 0px;
+}
+.logoo{
+  position: relative;
+    margin: 1px 1px 1px 1px;
+  
 }
 
 /*===Background Effect===*/
@@ -6830,7 +6836,7 @@ Home Page 2 Start
 
 .video-section-two-outer .video-section-img {
   text-align: center;
-  padding-bottom: 20px;
+  padding-bottom: 1px;
 }
 
 .video-section-two-outer .video-section-two {
